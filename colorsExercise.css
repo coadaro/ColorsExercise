@@ -1,0 +1,38 @@
+h1 {
+    color: purple;
+    background-color: red;
+}
+
+h2 {
+    color: #0000ff;
+    background-color: orange;
+}
+
+h3 {
+    color: #ade;
+    background-color: yellow;
+}
+
+h4 {
+    color: #00800090;
+    background-color: limegreen;
+}
+
+h5 {
+    color: #ff09;
+    background-color: lightblue;
+}
+
+h6 {
+    color: rgb(255,165,0);
+    background-color: blue;
+}
+
+p {
+    color: rgba(255, 0, 0, 0.9);
+    background-color: purple;
+}
+
+li {
+    color: hotpink;
+}
