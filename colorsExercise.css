@@ -33,6 +33,16 @@ p {
     background-color: purple;
 }
 
-li {
+#idName {
     color: hotpink;
+}
+
+li:last-child {
+    background-color: peachpuff;
+}
+
+.className {
+    border: green;
+    border-style: solid;
+    border-width: 5px;
 }
